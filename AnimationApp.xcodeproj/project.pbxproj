@@ -11,6 +11,8 @@
 		23EAD9ED282DA0C800D3EA41 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EAD9EC282DA0C800D3EA41 /* ContentView.swift */; };
 		23EAD9EF282DA0CA00D3EA41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23EAD9EE282DA0CA00D3EA41 /* Assets.xcassets */; };
 		23EAD9F2282DA0CA00D3EA41 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23EAD9F1282DA0CA00D3EA41 /* Preview Assets.xcassets */; };
+		23EAD9F9282DA0E300D3EA41 /* AppleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EAD9F8282DA0E300D3EA41 /* AppleView.swift */; };
+		23EAD9FB282EF90900D3EA41 /* Arrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EAD9FA282EF90900D3EA41 /* Arrow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		23EAD9EC282DA0C800D3EA41 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		23EAD9EE282DA0CA00D3EA41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23EAD9F1282DA0CA00D3EA41 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		23EAD9F8282DA0E300D3EA41 /* AppleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleView.swift; sourceTree = "<group>"; };
+		23EAD9FA282EF90900D3EA41 /* Arrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				23EAD9EA282DA0C800D3EA41 /* AnimationAppApp.swift */,
 				23EAD9EC282DA0C800D3EA41 /* ContentView.swift */,
+				23EAD9F8282DA0E300D3EA41 /* AppleView.swift */,
+				23EAD9FA282EF90900D3EA41 /* Arrow.swift */,
 				23EAD9EE282DA0CA00D3EA41 /* Assets.xcassets */,
 				23EAD9F0282DA0CA00D3EA41 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				23EAD9ED282DA0C800D3EA41 /* ContentView.swift in Sources */,
+				23EAD9FB282EF90900D3EA41 /* Arrow.swift in Sources */,
+				23EAD9F9282DA0E300D3EA41 /* AppleView.swift in Sources */,
 				23EAD9EB282DA0C800D3EA41 /* AnimationAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
