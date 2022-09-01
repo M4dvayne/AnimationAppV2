@@ -9,7 +9,7 @@ import SwiftUI
 
 struct AppleView: View {
     var body: some View {
-       
+        
         GeometryReader { geometry in
             Path { path in
                 path.move(to: CGPoint(x: 111, y: 35))
@@ -27,7 +27,7 @@ struct AppleView: View {
                 path.addLine(to: CGPoint(x: 111 ,y: 155))
             }
             .fill(Color.red)
-
+            
             Path { path in
                 path.move(to: CGPoint(x: 111, y: 35))
                 path.addLine(to: CGPoint(x: 100,y: 20))

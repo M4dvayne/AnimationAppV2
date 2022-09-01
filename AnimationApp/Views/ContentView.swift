@@ -40,7 +40,6 @@ struct ContentView: View {
 }
 
 extension AnyTransition {
-    
     static var transition: AnyTransition {
         
         let insertion = AnyTransition.move(edge: .leading)
